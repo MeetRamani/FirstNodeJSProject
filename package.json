@@ -1,0 +1,21 @@
+{
+  "name": "meet",
+  "version": "1.0.0",
+  "description": "hello world meet",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+    
+  },
+  "author": "meet",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "collections": "^5.1.8",
+    "output-manager": "^2.0.2",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
